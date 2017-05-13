@@ -19,4 +19,5 @@ public class User {
 	public void play(){
 		System.out.println("娱乐一下！");
 	}
+	//测试分支的未提交的工作区是否被保存
 }
