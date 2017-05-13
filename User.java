@@ -11,4 +11,8 @@ public class User {
 	public void sleep(){
 		System.out.println("睡个好觉！");
 	}
+	
+	public void eat(){
+		System .out.println("吃饭时间到！");
+	}
 }
