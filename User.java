@@ -15,4 +15,8 @@ public class User {
 	public void eat(){
 		System .out.println("吃饭时间到！");
 	}
+	
+	public void play(){
+		System.out.println("娱乐一下！");
+	}
 }
